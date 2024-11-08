@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="addition.cpp" />
-    <ClCompile Include="main.cpp" />
     <ClCompile Include="multiplication.cpp" />
     <ClCompile Include="SimpleCalculator.cpp" />
   </ItemGroup>
